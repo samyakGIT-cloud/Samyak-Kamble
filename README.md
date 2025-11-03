@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samyakgit-cloud" alt="samyakgit-cloud" /></a> </p>
 
-- 🔭 I’m currently working on **Samyak vikas kamble**
+- 🔭 I’m currently working on **Samyak kamble**
 
 - 📫 How to reach me **samyakkamble3016@gmail.com**
 
